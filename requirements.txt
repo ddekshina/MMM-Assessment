@@ -1,2 +1,8 @@
 pandas
 matplotlib
+statsmodel
+xgboost
+shap
+numpy
+numba
+shap
